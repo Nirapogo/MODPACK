@@ -1,3 +1,3 @@
 # MODPACK
-Mode "Normal" --> Ajouter mods
+Mode "Normal" --> Ajouter mods \
 Mode "Reboot" --> Supprimer mods
