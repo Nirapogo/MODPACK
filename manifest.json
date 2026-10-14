@@ -1,5 +1,6 @@
 {
   "version": "1.0.2",
-  "url": "https://github.com/Nirapogo/MODPACK/releases/download/v1.0.2/modpack.zip",
-  "notes": "Version initiale"
+  "url": "https://github.com/.../v1.0.2.zip",
+  "mode": "normal",
+  "notes": "Ajout du mod Create"
 }
