@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3-Reboot",
-  "url": "https://github.com/Nirapogo/MODPACK/releases/download/v1.0.3-Reboot/modpack.zip",
-  "mode": "reboot",
-  "notes": "suppressions de 2 mods problèmatiques"
+  "version": "1.0.4",
+  "url": "https://github.com/Nirapogo/MODPACK/releases/download/v1.0.4/modpack.zip",
+  "mode": "normal",
+  "notes": "ajout du mod iris shaders"
 }
