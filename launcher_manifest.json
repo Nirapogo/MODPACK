@@ -2,6 +2,11 @@
   "version": "1.2.0",
   "url": "https://github.com/Nirapogo/MODPACK/releases/download/launcher-v1.1.0/Absolute_Bernard.exe",
   "sha256": "",
-  "notes": "Ajout auto-update + fix crash serveur",
-  "mandatory": true
+  "notes": "Nouveau design de connexion, mode maintenance",
+  "mandatory": false,
+  "min_version": "1.0.0",
+  "maintenance": {
+    "enabled": false,
+    "message": "Le serveur est en maintenance, retour vers 18h."
+  }
 }
