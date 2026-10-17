@@ -3,7 +3,7 @@
   "url": "https://github.com/Nirapogo/MODPACK/releases/download/launcher_v1.1.0/Absolute_Bernard.exe",
   "sha256": "",
   "notes": "Nouveau design de connexion, mode maintenance",
-  "mandatory": false,
+  "mandatory": true,
   "min_version": "1.0.0",
   "maintenance": {
     "enabled": false,
